@@ -1,0 +1,32 @@
+source,target
+Cu ore,Cu - refined
+Cu - refined,Cu foil
+Cu foil,NMC/graphite battery
+Bauxite,Al metal
+Al metal,Al foil
+Al foil,NMC/graphite battery
+Li brine,Li2CO3
+Li2CO3,LiPF6
+LiPF6,Electrolyte - battery grade
+Electrolyte - battery grade,NMC/graphite battery
+Graphite ore,Graphite - refined
+Graphite - refined,Natural graphite
+Natural graphite,Graphite electrode
+Graphite electrode,NMC/graphite battery
+Manganese ore,Manganese - refined
+Manganese - refined,MnSO4
+MnSO4,NMC
+NMC,NMC electrode
+NMC electrode,NMC/graphite battery
+Cobalt ore,Cobalt - refined
+Cobalt - refined,CoSO4
+CoSO4,NMC
+Nickel ore,Nickel - refined
+Nickel - refined,NiSO4
+NiSO4,NMC
+Petroleum,Carbon black
+Petroleum,Ethylene
+Carbon black,Graphite electrode
+Ethylene,Polyethylene
+Polyethylene,Separator
+Separator,NMC/graphite battery
